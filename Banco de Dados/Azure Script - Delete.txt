@@ -1,0 +1,23 @@
+drop table partida;
+
+drop table equipeGamer;
+
+drop table equipeJogo;
+
+drop table gamerinfo;
+
+-- drop table enderecoGamer;
+
+drop table infracao;
+
+drop table statusSolicitacao;
+
+drop table equipe;
+
+drop table jogo;
+
+drop table posicao;
+
+drop table endereco;
+
+drop table gamer;
